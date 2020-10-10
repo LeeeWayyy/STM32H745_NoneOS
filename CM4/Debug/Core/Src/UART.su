@@ -1,0 +1,4 @@
+UART.c:16:6:UART_init	8	static
+UART.c:26:6:UART_Abort_Rx	16	static
+UART.c:65:6:checkReceiveData	8	static
+UART.c:77:6:UART_IDLE_Handler	24	static

@@ -1,0 +1,4 @@
+stm32h7xx_hal_mmc_ex.c:85:19:HAL_MMCEx_ConfigDMAMultiBuffer	24	static
+stm32h7xx_hal_mmc_ex.c:109:19:HAL_MMCEx_ReadBlocksDMAMultiBuffer	64	static
+stm32h7xx_hal_mmc_ex.c:190:19:HAL_MMCEx_WriteBlocksDMAMultiBuffer	64	static
+stm32h7xx_hal_mmc_ex.c:273:19:HAL_MMCEx_ChangeDMABuffer	24	static
